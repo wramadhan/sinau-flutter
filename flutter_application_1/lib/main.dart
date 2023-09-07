@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
                   decoration: TextDecoration.lineThrough,
                   // decoration: TextDecoration.underline,
                   decorationStyle: TextDecorationStyle.wavy,
-                  decorationColor: Colors.white
+                  decorationColor: Colors.white,
                   decorationThickness: 2),
             ),
           )),
